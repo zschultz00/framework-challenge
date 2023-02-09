@@ -1,1 +1,1 @@
-first commit. this website is gonna be sweet.
+The Spartan Linux Tux Logo was created by Spartan Linux Users Group 
