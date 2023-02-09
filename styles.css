@@ -1,0 +1,14 @@
+.cardw {
+    width: 30rem;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    overflow-x: hidden;
+    /* Hide horizontal scrollbar */
+}
+
+.bg-primary {
+    background-color: #18453B !important;
+}
+
